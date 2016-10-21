@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="WindTurbine.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ocean\Scripts\BoatController.cs">
+    <Files>
+      <File FileName="Assets\Ocean\Scripts\BoatController.cs" Line="72" Column="24" />
+      <File FileName="Assets\Wind_turbine\Scripts\Windturbine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Helicopter\Scripts\HelicopterController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Helicopter\Scripts\UIGameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Helicopter\Scripts\ControlPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Helicopter\Scripts\FollowTargetCamera.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
